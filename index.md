@@ -1,3 +1,11 @@
+---
+layout: project
+title: Balance_Up/
+project: Balance_Up
+repo: datascience-labs/Balance_Up
+permalink: /:path/:basename:output_ext
+---
+
 # 밸런스 업
 밸런스 업은 이력서 기반으로 직업 추천 및 추천 직업에 대한 회사의 라이프 밸런스 추천 시스템입니다.<br>
 서비스 주소 : https://balanceup.streamlit.app/

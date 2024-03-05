@@ -1,3 +1,11 @@
+---
+layout: project
+title: Balance_Up/script/jquery-fadethis-master/CONTRIBUTING
+project: Balance_Up
+repo: datascience-labs/Balance_Up
+permalink: /:path/:basename:output_ext
+---
+
 # Contributing
 
 ## Important notes

@@ -1,3 +1,11 @@
+---
+layout: project
+title: Balance_Up/script/jquery-fadethis-master/
+project: Balance_Up
+repo: datascience-labs/Balance_Up
+permalink: /:path/:basename:output_ext
+---
+
 # jQuery FadeThis
 
 ### A lightweight jQuery plugin for *fade-as-you-scroll* features.
